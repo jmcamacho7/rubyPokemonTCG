@@ -1,24 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby Pokémon TCG
 
-Things you may want to cover:
+Una pequeña prueba en Ruby para realizar busquedas de cartas utilizando la API de Pokémon TCG API.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+De momento se han implementado 3 métodos.
